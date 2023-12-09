@@ -37,3 +37,7 @@ Code sorcerer ✨ | Crafting digital realms with React, JS, HTML, CSS, Node.js, 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/> 
 </p>
+
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayon121&theme=aura_dark)
