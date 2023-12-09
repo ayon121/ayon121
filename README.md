@@ -40,5 +40,7 @@ Code sorcerer ✨ | Crafting digital realms with React, JS, HTML, CSS, Node.js, 
 
 <hr>
 
+<div align="center">
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayon121&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayon121&theme=aura_dark)
+</div>
