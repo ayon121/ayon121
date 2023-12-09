@@ -5,7 +5,13 @@
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=5005&pause=1000&color=F70000&center=true&random=false&width=450&lines=+Welcome+to+my+GitHub+haven.;Explore+the+realms+of+code." alt="Typing SVG" /></a>
 </div>
-
+<!-- About Me -->
+<h1>
+    About Me
+</h1>
+<p>
+Code sorcerer ✨ | Crafting digital realms with React, JS, HTML, CSS, Node.js, and databases like MongoDB and Firebase 🚀 | Tailwind CSS enthusiast 🌈 | On a journey to master the art of web weaving | Dreaming of becoming the best version of a developer 🌟 | Constantly embracing the beauty of learning new technologies 💡 | Coding is my meditation, and bugs are my puzzles 🐞 | Join me on this exciting quest for elegant solutions and pixel-perfect dreams! 💻✨
+</p>
 <!-- commits count -->
 <h1>
     My Commits and Stats
